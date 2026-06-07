@@ -185,7 +185,6 @@ data-science-2026/
 ## 📞 Kontak & Referensi
 
 - **GitHub:** [@saifinuha](https://github.com/saifinuha)
-- **Email:** [saifinuha@example.com] *(Sesuaikan dengan kontak Anda)*
 
 **Dokumentasi Referensi:**
 - [Pandas Documentation](https://pandas.pydata.org/)
